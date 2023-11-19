@@ -7,7 +7,7 @@ Repo created while learning framework foundry
 forge build = Complie source code
 forge test = Testing/Running Complied source code
 forge test --match-path test/<your-test-file.t.sol> = Test particular Compiled source code
-forge test --match-path test/<your-test-file.t.sol> -vvv = (Recommended) Get more in details
+forge test --match-path test/<your-test-file.t.sol> -vvv = (Recommended) Get more in verbose details
 forge test --match-path test/Counter.t.sol --gas-report = Get detail about the gas report
 ```
 ## Codes and Tests
