@@ -1,7 +1,7 @@
 # learn-foundry
 Repo created while learning framework foundry
 
-![image](https://github.com/basant0x01/learn-foundry/assets/123530150/8cab492e-d568-4263-8899-3b51aeded37f)
+![image](https://github.com/basant0x01/learn-foundry/assets/123530150/10d10c25-223a-4293-bf39-e3858b1f9a41)
 
 ```
 forge build - Complie source code
