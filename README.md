@@ -9,4 +9,5 @@ forge test = Testing/Running Complied source code
 forge test --match-path test/<your-test-file.t.sol> = Test particular Compiled source code
 ```
 ## Codes and Tests
-[HelloWorld](https://github.com/basant0x01/learn-foundry/blob/main/orginal-codes/HelloWorld.sol) | [test](https://github.com/basant0x01/learn-foundry/blob/main/test-codes/HelloWorld.t.sol)
+1. [HelloWorld](https://github.com/basant0x01/learn-foundry/blob/main/orginal-codes/HelloWorld.sol) | [helloworld_test](https://github.com/basant0x01/learn-foundry/blob/main/test-codes/HelloWorld.t.sol)
+2. [Counter](https://github.com/basant0x01/learn-foundry/blob/main/orginal-codes/Counter.sol) | [counter_test](https://github.com/basant0x01/learn-foundry/blob/main/test-codes/Counter.t.sol)
