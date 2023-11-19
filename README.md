@@ -32,7 +32,8 @@ Add a line to your code
 ```
 import "forge-std/console.sol";
 ```
-And `console.log("Your Message");` anywhere you want to add
+And `console.log("Your Message");` any message you want. 
+But for directly logging the integer value from the variable use `console.logInt()`
 
 ## Test with Examples
 1. [HelloWorld](https://github.com/basant0x01/learn-foundry/blob/main/orginal-codes/HelloWorld.sol) | [helloworld_test](https://github.com/basant0x01/learn-foundry/blob/main/test-codes/HelloWorld.t.sol)
