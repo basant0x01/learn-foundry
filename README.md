@@ -13,6 +13,7 @@ forge test --match-path test/Counter.t.sol --gas-report = To Get detail about th
 forge install rari-capital/solmate = To install library from solmate
 forge update lib/solmate = To update the library for the newest version
 forge remove solmate = To remove <solmate-library>
+forge fmt = To automatically format the source code
 ```
 
 ## Install Library from @openzeppelin using npm
