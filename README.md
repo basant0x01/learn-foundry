@@ -28,7 +28,7 @@ solc_version = "0.8.17"
 ```
 
 ## Writing message to the terminal
-Add line to your code
+Add a line to your code
 ```
 import "forge-std/console.sol";
 ```
