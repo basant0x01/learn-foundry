@@ -3,7 +3,7 @@ Repo created while learning framework foundry
 
 ![image](https://github.com/basant0x01/learn-foundry/assets/123530150/10d10c25-223a-4293-bf39-e3858b1f9a41)
 
-## Test Commands
+## Test Commands: forge
 ```
 forge build = Complie source code
 forge test = Testing/Running Complied source code
@@ -13,8 +13,8 @@ forge test --match-path test/Counter.t.sol --gas-report = Get detail about the g
 ```
 
 ## Change/Modify Solidity Compiler Version
-```
 Edit `foundry.toml` and add a line
+```
 solc_version = "0.8.17"
 ```
 
