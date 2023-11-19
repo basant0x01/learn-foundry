@@ -5,11 +5,19 @@ Repo created while learning framework foundry
 
 ## Test Commands: forge
 ```
-forge build = Complie source code
-forge test = Testing/Running Complied source code
-forge test --match-path test/<your-test-file.t.sol> = Test particular Compiled source code
-forge test --match-path test/<your-test-file.t.sol> -vvv = (Recommended) Get more in verbose details
-forge test --match-path test/Counter.t.sol --gas-report = Get detail about the gas report
+forge build = To Complie source code
+forge test = To Testing/Running Complied source code
+forge test --match-path test/<your-test-file.t.sol> = To Test particular Compiled source code
+forge test --match-path test/<your-test-file.t.sol> -vvv = (Recommended) To Get more in verbose details
+forge test --match-path test/Counter.t.sol --gas-report = To Get detail about the gas report
+forge install rari-capital/solmate = To install library from solmate
+forge update lib/solmate = To update the library for the newest version
+forge remove solmate = To remove <solmate-library>
+```
+
+## Install Library from @openzeppelin
+```
+npm i @openzeppelin/contracts
 ```
 
 ## Change/Modify Solidity Compiler Version
