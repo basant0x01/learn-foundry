@@ -27,6 +27,13 @@ Edit `foundry.toml` and add a line
 solc_version = "0.8.17"
 ```
 
+## Writing message to the terminal
+Add line to your code
+```
+import "forge-std/console.sol";
+```
+And `console.log("Your Message");` anywhere you want to add
+
 ## Test with Examples
 1. [HelloWorld](https://github.com/basant0x01/learn-foundry/blob/main/orginal-codes/HelloWorld.sol) | [helloworld_test](https://github.com/basant0x01/learn-foundry/blob/main/test-codes/HelloWorld.t.sol)
 2. [Counter](https://github.com/basant0x01/learn-foundry/blob/main/orginal-codes/Counter.sol) | [counter_test](https://github.com/basant0x01/learn-foundry/blob/main/test-codes/Counter.t.sol)
