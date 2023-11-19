@@ -15,7 +15,7 @@ forge update lib/solmate = To update the library for the newest version
 forge remove solmate = To remove <solmate-library>
 ```
 
-## Install Library from @openzeppelin
+## Install Library from @openzeppelin using npm
 ```
 npm i @openzeppelin/contracts
 ```
